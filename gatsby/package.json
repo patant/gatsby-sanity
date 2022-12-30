@@ -15,7 +15,7 @@
   "dependencies": {
     "@loadable/component": "^5.10.3",
     "@sanity/block-content-to-react": "^2.0.7",
-    "gatsby": "^2.15.16",
+    "gatsby": "^2.32.13",
     "gatsby-image": "^2.2.19",
     "gatsby-plugin-sharp": "^2.2.23",
     "gatsby-source-sanity": "^5.0.2",
